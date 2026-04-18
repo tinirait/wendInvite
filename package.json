@@ -1,6 +1,7 @@
 {
   "name": "wendenig_one",
   "version": "0.1.0",
+  "homepage": "https://tinirait.github.io/wendInvite",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
