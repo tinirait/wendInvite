@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wendInvite/static/css/main.f9fdc780.css",
-    "main.js": "/wendInvite/static/js/main.627795d4.js",
+    "main.css": "/wendInvite/static/css/main.9b6c5d48.css",
+    "main.js": "/wendInvite/static/js/main.969d3908.js",
     "static/js/453.abd0062c.chunk.js": "/wendInvite/static/js/453.abd0062c.chunk.js",
     "index.html": "/wendInvite/index.html",
-    "main.f9fdc780.css.map": "/wendInvite/static/css/main.f9fdc780.css.map",
-    "main.627795d4.js.map": "/wendInvite/static/js/main.627795d4.js.map",
+    "main.9b6c5d48.css.map": "/wendInvite/static/css/main.9b6c5d48.css.map",
+    "main.969d3908.js.map": "/wendInvite/static/js/main.969d3908.js.map",
     "453.abd0062c.chunk.js.map": "/wendInvite/static/js/453.abd0062c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9fdc780.css",
-    "static/js/main.627795d4.js"
+    "static/css/main.9b6c5d48.css",
+    "static/js/main.969d3908.js"
   ]
 }
